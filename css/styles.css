@@ -11,7 +11,17 @@ body {
 	font-family: 'Poppins', sans-serif;
 }
 
-
+section{
+	position: relative;
+	width: 100%;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	background: url("../images/gradientbackground copy.jpg") no-repeat;
+	background-size: cover;
+	background-position: center;
+}
 
 /* Changing the background colour for the header */
 
