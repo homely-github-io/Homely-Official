@@ -39,6 +39,12 @@ section{
 	font-weight: 600;
 }
 
+content .info p{
+	font-size: 25px;
+	font-weight: 500;
+	margin-bottom: 40px;
+}
+
 .content .info-btn{
 	color: #fff;
 	background: #6d4c3d;
