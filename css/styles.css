@@ -23,6 +23,39 @@ section{
 	background-position: center;
 }
 
+.content .info h2{
+	color: #6d4c3d;
+	font-size: 55px;
+	text-transform: uppercase;
+	font-weight: 800;
+	letter-spacing: 2px;
+	line-height: 60px;
+	margin-bottom: 30px;	
+}
+
+.content .info h2 span{
+	color: #fff;
+	font-size: 50px;
+	font-weight: 600;
+}
+
+.content .info-btn{
+	color: #fff;
+	background: #6d4c3d;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 2px;
+	padding: 10px 20px;
+	border-radius: 5px;	
+	transition: 0.3s;
+	transition-property: background;
+}
+
+.content .info-btn:hover{
+	background: #4F3529
+}
+
 /* Changing the background colour for the header */
 
 header {
