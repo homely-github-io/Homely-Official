@@ -82,6 +82,10 @@ h2 {
 	background: #4F3529
 }
 
+row {
+	background-color: white;
+}
+
 /* Changing the background colour for the header */
 
 header {
@@ -89,7 +93,7 @@ header {
 }
 
 col-sm-8 col-md-9 col-lg-10 py-sm-4 {
-	color: white;
+	background-color: white;
 }
 
 /* Changing the background color for the navigation bar */
