@@ -24,11 +24,24 @@ section{
 	background-position: center;
 }
 
+header{
+	position: relative;
+	top: 0;
+	width: 85%;
+	padding: 30px 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
 .content{
 	max-width: 650px;
 	margin: 60px 100px;
 }
 
+h2 {
+	margin: 60px 10px;
+}
 
 .content .info h2{
 	color: #6d4c3d;
@@ -46,8 +59,8 @@ section{
 	font-weight: 600;
 }
 
-content .info p{
-	font-size: 25px;
+.content .info p{
+	font-size: 18px;
 	font-weight: 500;
 	margin-bottom: 40px;
 }
@@ -73,6 +86,10 @@ content .info p{
 
 header {
 	background-color: #D6B694;
+}
+
+col-sm-8 col-md-9 col-lg-10 py-sm-4 {
+	color: white;
 }
 
 /* Changing the background color for the navigation bar */
