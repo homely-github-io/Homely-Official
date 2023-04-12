@@ -36,7 +36,7 @@ header{
 
 .content{
 	max-width: 650px;
-	margin: 60px 100px;
+	margin: 10px 100px;
 }
 
 h2 {
@@ -84,6 +84,10 @@ h2 {
 
 row {
 	background-color: white;
+}
+
+.bgwhite {
+	background-color: #FFFFFF;
 }
 
 /* Changing the background colour for the header */
