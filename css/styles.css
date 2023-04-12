@@ -86,6 +86,10 @@ row {
 	background-color: white;
 }
 
+.bgwhite {
+	background-color: #FFFFFF;
+}
+
 /* Changing the background colour for the header */
 
 header {
