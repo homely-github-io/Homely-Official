@@ -45,7 +45,7 @@ h2 {
 
 .content .info h2{
 	color: #6d4c3d;
-	font-size: 55px;
+	font-size: 60px;
 	text-transform: uppercase;
 	font-weight: 800;
 	letter-spacing: 2px;
@@ -55,12 +55,12 @@ h2 {
 
 .content .info h2 span{
 	color: #fff;
-	font-size: 50px;
+	font-size: 55px;
 	font-weight: 600;
 }
 
 .content .info p{
-	font-size: 19px;
+	font-size: 30px;
 	font-weight: 500;
 	margin-bottom: 40px;
 }
