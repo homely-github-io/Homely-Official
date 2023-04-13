@@ -9,7 +9,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    background-image: url(../images/gradientbackground%20copy.jpg);
+    background-image: url(../images/Screenshot%202023-04-13%20at%2023.36.50.png);
 }
 
 section{
@@ -99,7 +99,11 @@ col-sm-8 col-md-9 col-lg-10 py-sm-4 {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #FFFFFF;
+    background-color: #DCC9B6;
+    background-image: -webkit-linear-gradient(87deg,rgba(255,255,255,1.00) 0%,rgba(231,200,180,1.00) 100%);
+    background-image: -moz-linear-gradient(87deg,rgba(255,255,255,1.00) 0%,rgba(231,200,180,1.00) 100%);
+    background-image: -o-linear-gradient(87deg,rgba(255,255,255,1.00) 0%,rgba(231,200,180,1.00) 100%);
+    background-image: linear-gradient(3deg,rgba(255,255,255,1.00) 0%,rgba(231,200,180,1.00) 100%);
 }
 
 /* Effect on social media buttons */
@@ -130,6 +134,8 @@ footer a:hover {
 	.content .info p{
 		font-size: 14px;
 	}
+.card.shadow.h-100 .card-body .card-title {
+}
 
 @media (max-width: 560px){
 	.content .info h2{
@@ -145,4 +151,22 @@ footer a:hover {
 	.content .info p{
 		font-size: 14px;
 }
+}
+
+.col{
+    font-size: 35pt;
+    font-family: 'Playball', cursive;
+    color: #6D4C3D;
+}
+
+p {
+    font-size: large;
+	font-family: 'Poppins', sans-serif;
+	color: black
+}
+
+h5 {
+	font-family: 'Poppins', sans-serif;
+	color: #727D71
+	
 }
